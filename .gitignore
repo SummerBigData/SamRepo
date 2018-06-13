@@ -1,0 +1,16 @@
+*.swp
+*.pyc
+*.log
+*.html
+*.o11*
+X_conv*
+*/logs/
+*/remote-logs/
+*/drawn-images/
+*/X_learned.txt
+X_learned.txt
+drawn-images/*
+drawn_images/*
+*/drawn_images/
+dl-stackae/
+dl-pca2d/
